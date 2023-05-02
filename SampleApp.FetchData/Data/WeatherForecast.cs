@@ -1,4 +1,4 @@
-namespace SampleApp.Data
+namespace SampleApp.FetchData.Data
 {
     public class WeatherForecast
     {
